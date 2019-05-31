@@ -1,0 +1,27 @@
+#chessBoard {
+  width: 360px;
+  height: 360px;
+  border: 1px solid black;
+}
+
+div {
+  width: 45px;
+  height: 45px;
+  float: left;
+}
+
+.white {
+  background-color: white;
+}
+
+.black {
+  background-color: black;
+}
+
+.selected {
+  background-color: blue;
+}
+
+.horseCell {
+  background-color: green;
+}
